@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [rufaid](https://youtube.com/c/rufaid)
 - 👀 I’m interested in learning & teaching about cryptocurrency
 - 🌱 I’m currently learning and teaching about cryptocurrency 
-- 📫 How to reach me [rufaid](https://linktr.ee/rufaid)
+- 📫 How to reach me [link](https://linktr.ee/rufaid)
 - ![rufaid's github stats](https://github-readme-stats.vercel.app/api?username=rufaidksd&prs&count_private=true&show_icons=true&theme=dark) 
 
 <!---
