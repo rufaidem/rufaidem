@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating and destroying
 - 🌱 I’m currently learning webdeveloping 
 - 💞️ I’m looking to learn cybersecurity with development
-- 📫 How to reach me ❒ twitter:- twitter.com/rufaidksd ❒ ❒ instagram :- instagram.com/rufaidksd❒ ❒ youtube :- youtube.com/rufaid ❒
+- 📫 How to reach me [rufaid](https://linktr.ee/rufaid)
 - ![rufaid's github stats](https://github-readme-stats.vercel.app/api?username=rufaidksd&prs&count_private=true&show_icons=true&theme=dark) 
 
 <!---
